@@ -45,13 +45,10 @@ Step 4 : You will need to run Backend & Frontend seperately!
 And finally the server will be loaded!
 
 #### Tech Stack Used
-1.)React - Frontend javascript library
-
-2.)Node - Backend framework
-
-3.)Express - Node.js web application framework
-
-4.)MongoDB - Database Management
+- React - Frontend javascript library
+- Node - Backend framework
+- Express - Node.js web application framework
+- MongoDB - Database Management
 
 #### Functionalities in the app
 - Authentication using JWT Token
@@ -62,6 +59,7 @@ And finally the server will be loaded!
 - Real Time Chat feature 
 - Prescription Upload facility.
 
+#### Contributors
 Mentor - [Mr.Vamsi Krishna Devabathini](https://github.com/iamvamsikrishnad)
 - Shweta Gurnani
 - Priyanshi Jain
