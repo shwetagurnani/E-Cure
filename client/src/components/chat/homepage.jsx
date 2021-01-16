@@ -5,7 +5,7 @@ import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import io from "socket.io-client";
 import bg from "../images/bg.png"
-const socket = io.connect("https://summer20-sps-83.appspot.com/");
+const socket = io.connect("http://localhost:3000");
 class homepage extends Component {
     constructor (props) {
         super(props);

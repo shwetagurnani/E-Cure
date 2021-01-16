@@ -29,7 +29,7 @@ app.use(express.static(path.join(__dirname, '/build')));
 
 mongoose
   .connect(
-    "mongodb+srv://shweta:UFkSazwQonRwSH4X@cluster0.bopuu.mongodb.net/test?retryWrites=true&w=majority",
+    "mongodb+srv://shweta:shweta@cluster0.4lmtv.mongodb.net/ECure?retryWrites=true&w=majority",
     { useNewUrlParser: true, useUnifiedTopology: true },
   )
   .then(() => console.log("MongoDB connected successfully "))

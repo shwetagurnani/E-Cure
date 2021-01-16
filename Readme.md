@@ -65,7 +65,7 @@ Mentor - [Mr.Vamsi Krishna Devabathini](https://github.com/iamvamsikrishnad)
 - Priyanshi Jain
 - Susmita Mazumdar
 
-If you have any difficulty in building up the code in the repository,feel free to open the issue!
+If you have any difficulty in building up the code in the repository,feel free to open the issue!!
 
 
 
